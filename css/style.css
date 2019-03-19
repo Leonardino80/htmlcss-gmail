@@ -1,0 +1,47 @@
+/*se non scrivo il percorso completo non mi carica l'immagine :( */
+body {
+  background-image: url(C:/Users/Leonardino/Desktop/boolean/14%20marzo/gmail/immagini/sfondo%20legno.jpg);
+}
+
+#container {
+  width: 800px;
+  margin: auto;
+}
+
+#trademark {
+margin-top: 7px;
+text-align: center;
+border-top: 2px;
+border-bottom: 0px;
+border-left: 0px;
+border-right: 0px;
+border-style: solid;
+border-color: white;
+}
+
+.white_text{
+  color: white;
+}
+
+.black_text{
+  color: black;
+}
+
+.gray_text{
+  color: gray;
+}
+
+.smaller_font{
+  font-size: 15px;
+}
+
+.bigger_font{
+  font-size: 30px;
+}
+
+.casella{
+border: 1px;
+border-style: solid;
+border-color: rgb(0, 0, 0);
+background-color: rgb(200, 200, 200)
+}
